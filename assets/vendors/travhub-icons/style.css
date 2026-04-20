@@ -11,11 +11,11 @@
 
 @font-face {
     font-family: "flaticon_mycollection";
-    src: url("./flaticon_mycollection.woff2?4b871aa8f64d267b0fc12e34adf4ba0a") format("woff2"),
-url("./flaticon_mycollection.woff?4b871aa8f64d267b0fc12e34adf4ba0a") format("woff"),
-url("./flaticon_mycollection.eot?4b871aa8f64d267b0fc12e34adf4ba0a#iefix") format("embedded-opentype"),
-url("./flaticon_mycollection.ttf?4b871aa8f64d267b0fc12e34adf4ba0a") format("truetype"),
-url("./flaticon_mycollection.svg?4b871aa8f64d267b0fc12e34adf4ba0a#flaticon_mycollection") format("svg")
+    src: url("https://solverwp.com/demo/html/travhub/assets/vendors/travhub-icons/flaticon_mycollection.woff2?4b871aa8f64d267b0fc12e34adf4ba0a") format("woff2"),
+url("https://solverwp.com/demo/html/travhub/assets/vendors/travhub-icons/flaticon_mycollection.woff?4b871aa8f64d267b0fc12e34adf4ba0a") format("woff"),
+url("https://solverwp.com/demo/html/travhub/assets/vendors/travhub-icons/flaticon_mycollection.eot?4b871aa8f64d267b0fc12e34adf4ba0a#iefix") format("embedded-opentype"),
+url("https://solverwp.com/demo/html/travhub/assets/vendors/travhub-icons/flaticon_mycollection.ttf?4b871aa8f64d267b0fc12e34adf4ba0a") format("truetype"),
+url("https://solverwp.com/demo/html/travhub/assets/vendors/travhub-icons/flaticon_mycollection.svg?4b871aa8f64d267b0fc12e34adf4ba0a#flaticon_mycollection") format("svg")
 }
 
 i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
