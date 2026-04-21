@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('https://solverwp.com/demo/html/travhub/assets/vendors/travhub-icons2/fonts/icomoon.eot?pterua');
-  src:  url('https://solverwp.com/demo/html/travhub/assets/vendors/travhub-icons2/fonts/icomoon.eot?pterua#iefix') format('embedded-opentype'),
-    url('https://solverwp.com/demo/html/travhub/assets/vendors/travhub-icons2/fonts/icomoon.ttf?pterua') format('truetype'),
-    url('https://solverwp.com/demo/html/travhub/assets/vendors/travhub-icons2/fonts/icomoon.woff?pterua') format('woff'),
-    url('https://solverwp.com/demo/html/travhub/assets/vendors/travhub-icons2/fonts/icomoon.svg?pterua#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?pterua');
+  src:  url('fonts/icomoon.eot?pterua#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?pterua') format('truetype'),
+    url('fonts/icomoon.woff?pterua') format('woff'),
+    url('fonts/icomoon.svg?pterua#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
